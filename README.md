@@ -17,8 +17,8 @@ Algumas coisas que são indispensáveis na minha vida 🤔 <br />
 🖥️  Atualmente vivo codando, quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como Hooks, pois uma coisa que sempre dizem é “Conhecimento nunca é demais”. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=augustoraminelli' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=augustoraminelli' />
+  <img src='https://github-readme-stats.vercel.app/api?username=augutoraminelli' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=augutoraminelli' />
   </div>
 
 <div>
