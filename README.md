@@ -16,6 +16,11 @@ Algumas coisas que são indispensáveis na minha vida 🤔 <br />
 
 🖥️  Atualmente vivo codando, quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como Hooks, pois uma coisa que sempre dizem é “Conhecimento nunca é demais”. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
 
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=augustoraminelli' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=augustoraminelli' />
+  </div>
+
 <div>
   <a href="malito:augustoraminelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
     <a href="https://www.linkedin.com/in/augusto-raminelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
