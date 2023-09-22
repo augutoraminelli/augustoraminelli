@@ -11,17 +11,8 @@
 
 ```javascript
   aboutMe = {
-    Interests: ['Business', 'Sports', 'Web Development', 'ReactWorld'],
+    Interests: ['Business', 'Sports', 'Full stack developer'],
   }
 ```
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=augutoraminelli' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=augutoraminelli' />
-  </div>
-
-<div>
-  <a href="malito:augustoraminelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/augusto-raminelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
 
 
